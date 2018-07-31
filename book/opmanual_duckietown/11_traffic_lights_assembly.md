@@ -48,7 +48,7 @@ To form a inter-network for all traffic light and camera tower, you also need a 
 
 ## Hardware Preparation
 
-#### From Wooden Plates to Chasis Parts (Laser Cut):
+### From Wooden Plates to Chasis Parts (Laser Cut):
 The plates should be 4mm thick. To cut a set of traffic light, you need a plates with the size of roughly ??x??x??.
 Here's the link of laser cut file.
 
@@ -184,4 +184,3 @@ After this step, launch traffic light node.
     duckiebot $ make demo-traffic-light
 
 You should see the traffic light shining like crazy now.
-
